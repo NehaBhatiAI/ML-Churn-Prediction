@@ -40,7 +40,7 @@ The idea was to transform raw bank data into actionable insights that can help t
 
 Here’s a preview of the Churn Prediction UI:  
 
-![Customer Churn Dashboard](images/ui_screenshot.png)  
+![Customer Churn Dashboard](assets)  
 
 ---
 
